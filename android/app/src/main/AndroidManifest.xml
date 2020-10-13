@@ -19,7 +19,7 @@
     tools:replace="android:label"
     android:icon="@mipmap/ic_launcher"
     android:roundIcon="@mipmap/ic_launcher_round"
-    android:label="Flutter Mvp"
+    android:label="好看视频"
     tools:ignore="GoogleAppIndexingWarning">
     <activity
       android:name=".MainActivity"
